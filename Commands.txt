@@ -1,0 +1,15 @@
+Default values for Archetype.
+
+Define value for property 'groupId': com.mycompany.app
+Define value for property 'artifactId': myapp
+Define value for property 'version' 1.0-SNAPSHOT: : 1.0
+Define value for property 'package' com.mycompany.app: : war
+Confirm properties configuration:
+groupId: com.mycompany.app
+artifactId: myapp
+version: 1.0
+package: war
+ Y: : y
+
+
+
